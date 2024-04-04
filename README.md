@@ -1,2 +1,4 @@
 # CKA_Course
-Learning on Certified kubernetes Administartor from the scratch
+Learning on Certified kubernetes Administartor
+Cluster Configurations
+Security
